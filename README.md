@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&text=Hugo%20Saulig&fontColor=ffffff&fontSize=50&desc=Data%20%26%20Software%20Engineering%20Student&descSize=18&descAlignY=70" alt="Hugo Saulig - Data and Software Engineering Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&text=Hugo%20Saulig&fontColor=ffffff&fontSize=50&desc=Data%20and%20Software%20Engineering%20Student&descSize=18&descAlignY=70" alt="Hugo Saulig - Data and Software Engineering Student" />
 </p>
 
 # Hi, I'm Hugo 👋
